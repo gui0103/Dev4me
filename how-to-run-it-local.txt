@@ -1,0 +1,9 @@
+-Open the "Java" folder and run the main class "JavaLoginJpaApplication"
+
+-Open the "Site" folder
+
+-Run the command "npm i" on a terminal
+
+-Run the command "npm start" on a terminal
+
+-The software will open on the browser
